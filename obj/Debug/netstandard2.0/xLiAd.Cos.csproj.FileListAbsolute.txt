@@ -1,0 +1,9 @@
+D:\Tests\xLiAd.Cos\bin\Debug\netstandard2.0\xLiAd.Cos.deps.json
+D:\Tests\xLiAd.Cos\bin\Debug\netstandard2.0\xLiAd.Cos.dll
+D:\Tests\xLiAd.Cos\bin\Debug\netstandard2.0\xLiAd.Cos.pdb
+D:\Tests\xLiAd.Cos\obj\Debug\netstandard2.0\xLiAd.Cos.csprojResolveAssemblyReference.cache
+D:\Tests\xLiAd.Cos\obj\Debug\netstandard2.0\xLiAd.Cos.csproj.CoreCompileInputs.cache
+D:\Tests\xLiAd.Cos\obj\Debug\netstandard2.0\xLiAd.Cos.AssemblyInfoInputs.cache
+D:\Tests\xLiAd.Cos\obj\Debug\netstandard2.0\xLiAd.Cos.AssemblyInfo.cs
+D:\Tests\xLiAd.Cos\obj\Debug\netstandard2.0\xLiAd.Cos.dll
+D:\Tests\xLiAd.Cos\obj\Debug\netstandard2.0\xLiAd.Cos.pdb
