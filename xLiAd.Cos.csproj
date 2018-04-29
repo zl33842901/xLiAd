@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>张磊</Authors>
+    <Company>xLiAd.com</Company>
+    <Description>腾讯云COS版本5（20180428最新版本）的SDK</Description>
+    <PackageProjectUrl>https://github.com/zl33842901/xLiAd</PackageProjectUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.1.0</Version>
   </PropertyGroup>
 
 </Project>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>张磊</authors>
+    <owners>$author$</owners>
+    <projectUrl>https://github.com/zl33842901/xLiAd</projectUrl>
+    <description>$description$</description>
+    <releaseNotes>腾讯云COS版本5（20180428最新版本）的SDK    目前只实现了PUT</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Cos myqcloud 腾讯云</tags>
+  </metadata>
+</package>
